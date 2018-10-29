@@ -1,4 +1,6 @@
-	
+[![Follow on Twitter](https://img.shields.io/twitter/follow/websecurify.svg?logo=twitter)](https://twitter.com/websecurify)
+
+
 	 ___ _   _ ___ _    ___              
 	| _ ) | | |_ _| |  |   \             
 	| _ \ |_| || || |__| |) |            
